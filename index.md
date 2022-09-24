@@ -5,53 +5,38 @@ layout: homepage
 
 ## Interests
 
-- **Algebraic Topology:** Chromatic Homotopy Theory 
-- **Representation Theory**
-- **Arithmetic Geometry**
-
-
-## Talks
-- **[07.2022-08.2022] Algebraic Geometry**
-  <br>
-  During this summer holiday a friend and I organized an unofficial student seminar in which I gave several talks based on the second chapter of Hartshone's Algebraic Geometry. [<a href="PDF-Personal Web/ag-seminar-1-13.pdf">Notes 1</a>] [<a href="PDF-Personal Web/ag-seminar-14-29.pdf">Notes 2</a>]
-  
-- **[01.06.2022] Algebraic Cycles**
-  <br>
-  In a research seminar I gave a presentation on algebraic cycles by following some sections of Fulton's Intersection Theory. [<a href="PDF-Personal Web/algebraic cycles.pdf">Notes</a>]
+- **Algebraic Topology**
+- **Homotopy Theory**
+- **Higher Algebra**
+- **Geometric Topology**
 
 
 
 ## Papers
 
-- **Term paper supervised by Prof. Marat Rovinsky**
+- **Summer project supervised by Dr. Shachar Carmeli and Vignesh Subramanian**
   <br>
-  Smooth Representations of Totally Disconnected Locally Compact Groups [<a href="combinepdf.pdf">PDF</a>]
-  <br>
-  This paper discusses general theory of smooth representations, then forcuses on representations of $$\mathrm{GL}_n(F)$$ over local field $$F$$.
-  
+  An Introduction to Topological K-theory towards Hopf Invariant One Problem [<a href="PDF-Personal Web/summer.pdf">PDF</a>]
+ 
 - **Bachelor thesis supervised by Dr. John Evans**
   <br>
-  Representation Theory of Finite Groups and Applications [<a href="MA3PRO_report2020-21.pdf">PDF</a>]
-  <br> This paper introduces representations theory of finite groups and applications on $$\mathrm{GL_2}(\mathbb{F}_{p^n})$$ for a prime $$p$$.
+  An Introduction to Homology Theory Towards Spectral Sequence [<a href="PDF-Personal Web/MA3PRO_report2020-21.pdf">PDF</a>]
+  
+- **Bachlor project**
+  <br>
+  A criterion for transitivity of area preserving partially hyperbolic endomorphism on torus [<a href="PDF-Personal Web/criterion.pdf">PDF</a>]
+
+## Notes
+- **Introduction to K-theory:** During the summer holiday of 2022, a friend and I organized an unofficial student seminar in which I gave several talks introducing topological and algebraic K-theories.[<a href="PDF-Personal Web/ag-seminar.pdf">Notes</a>]
+  
+- **Steenord Algebra:**
+  This is a note based on Lurie's lecture of Sullivan Conjecture, explaining the construction and properties of Steenord operations by using higher algebra.[<a href="PDF-Personal Web/steenord.pdf">Notes</a>]
+  
+- **Study Report on Extoic Spheres:**
+  This is a note writing on a graduate course Topics in differential geometry, introducing isoparametric foliations and DDBD structure on extoic spheres. 
+  [<a href="PDF-Personal Web/extoic.pdf">Notes</a>]
+
   
   
-## Activities
- 
- - **[28.08.2022-02.09.2022] Automorphic Forms Summer School**
-   <br>
-   Institution: Erdős Center - Alfréd Rényi Institute of Mathematics [[link](https://erdoscenter.renyi.hu/)]
-   <br>
-   Contents: Introduction to the $$p$$-adic Langlands program; Modular forms, sphere packing and energy minimization; Equidistribution in automorphic families; Estimates for $$L$$-functions
-   
-- **[01.2021-05.2021] Arizona Winter School**
-  <br>
-  Institution: The Sourthwest Center for Arithmetic Geometry [[link](https://swc-math.github.io/misc/aboutSWC/index.html)]
-  <br>
-  Contents: Modular forms, modular groups, quadratic forms, local-global principal
-  
-- **[09.2020-12.2020] Frontier Courses for Postgraduates**
-  <br>
-  Institution: Guangxi Center for Mathematical Research [[link](https://gxcmr.gxu.edu.cn/english.htm)]
-  <br>
-  Contents: Representation Theory
+
   
