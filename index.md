@@ -5,8 +5,7 @@ layout: homepage
 
 ## Interests
 
-- **Langlands Program**
-- **Algebraic Number Theory**
+- **Algebraic Topology:** Chromatic Homotopy Theory 
 - **Representation Theory**
 - **Arithmetic Geometry**
 
