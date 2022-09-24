@@ -27,7 +27,7 @@ layout: homepage
   A criterion for transitivity of area preserving partially hyperbolic endomorphism on torus [<a href="PDF-Personal Web/criterion.pdf">PDF</a>]
 
 ## Notes
-- **Introduction to K-theory:** During the summer holiday of 2022, a friend and I organized an unofficial student seminar in which I gave several talks introducing topological and algebraic K-theories.[<a href="PDF-Personal Web/ag-seminar.pdf">Notes</a>]
+- **Introduction to K-theory:** During the summer holiday of 2022, a friend and I organized an unofficial student seminar in which I gave several talks introducing topological and algebraic K-theories.[<a href="PDF-Personal Web/k-seminar.pdf">Notes</a>]
   
 - **Steenord Algebra:**
   This is a note based on Lurie's lecture of Sullivan Conjecture, explaining the construction and properties of Steenord operations by using higher algebra.[<a href="PDF-Personal Web/steenord.pdf">Notes</a>]
