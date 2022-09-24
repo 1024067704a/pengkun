@@ -22,7 +22,7 @@ layout: homepage
   <br>
   An Introduction to Homology Theory Towards Spectral Sequence [<a href="PDF-Personal Web/MA3PRO_report2020-21.pdf">PDF</a>]
   
-- **Bachlor project**
+- **Bachelor project**
   <br>
   A criterion for transitivity of area preserving partially hyperbolic endomorphism on torus [<a href="PDF-Personal Web/criterion.pdf">PDF</a>]
 
