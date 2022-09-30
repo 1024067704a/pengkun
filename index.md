@@ -14,7 +14,7 @@ layout: homepage
 
 ## Papers
 
-- **Summer project supervised by Dr. Shachar Carmeli and Vignesh Subramanian**
+- **Master project supervised by Dr. Shachar Carmeli and Vignesh Subramanian**
   <br>
   An Introduction to Topological K-theory towards Hopf Invariant One Problem [<a href="PDF-Personal Web/summer.pdf">PDF</a>]
  
@@ -22,7 +22,7 @@ layout: homepage
   <br>
   An Introduction to Homology Theory Towards Spectral Sequence [<a href="PDF-Personal Web/MA3PRO_report2020-21.pdf">PDF</a>]
   
-- **Bachelor project**
+- **Bachelor research project supervised by Dr. Zhiyuan Zhang**
   <br>
   A criterion for transitivity of area preserving partially hyperbolic endomorphism on torus [<a href="PDF-Personal Web/criterion.pdf">PDF</a>]
 
