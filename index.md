@@ -28,7 +28,7 @@ layout: homepage
 
 ## Notes
 - **Formal Groups and Lubin-Tate theory:** This is a note I wrote for the course Topics in Algebraic Topology. It cantains an overview of Lurie's construction and classical construction of Morava E-theory. [<a href="PDF-Personal Web/Lubin-Tate.pdf">Notes</a>]
-- 
+
 - **Introduction to K-theory:** During the summer holiday of 2022, a friend and I organized an unofficial student seminar in which I gave several talks introducing topological and algebraic K-theories.[<a href="PDF-Personal Web/k-seminar.pdf">Notes</a>]. The other part is in [Shuaishuai Duan](https://shuduan.github.io/sduan/).
   
 - **Steenord Algebra:**
