@@ -12,7 +12,11 @@ layout: homepage
 
 
 
-## Papers
+## Projects
+
+- **Master project supervised by Dr. Mikala Ørsnes Jansen**
+  <br>
+  Connective algebraic K-theory of stable infinity categories [<a href="PDF-Personal Web/connective-k.pdf">PDF</a>]
 
 - **Master project supervised by Dr. Shachar Carmeli and Vignesh Subramanian**
   <br>
